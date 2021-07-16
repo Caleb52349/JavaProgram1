@@ -41,7 +41,7 @@ In a particular factory, a shift supervisor is a salaried employee who supervise
 ## Main (Demo)
 - Your demo program will include two (2) Production Worker objects and one (1) Shift Supervisor object
 - Create (i.e. hard code) one (1) Production Worker and one (1) Shift Supervisor in the main() method of the demo program
-- e.g. LastnameShiftSupervisor carol = new LastnameShiftSupervisor ("Caleb Danso", "723-D", "09/10/2010", 65000.0);
+- e.g. ShiftSupervisor carol = new ShiftSupervisor ("Caleb Danso", "723-D", "09/10/2010", 65000.0);
 - Ask the user for information for one (1) additional Production Worker (using a separate method) via the console or input boxes
 - Use your name as the Shift Supervisor
 - Shift Supervisor earns bonus if both Production Workers are on the same shift
